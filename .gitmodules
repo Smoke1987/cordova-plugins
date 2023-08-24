@@ -1,0 +1,3 @@
+[submodule "cordova-plugin-local-notifications"]
+	path = cordova-plugin-local-notifications
+	url = https://github.com/Smoke1987/cordova-plugin-local-notifications.git
